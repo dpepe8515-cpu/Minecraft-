@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NexusRoxy</string>
+    <string name="nav_chat_ai">Chat IA</string>
+    <string name="nav_mods_mc">Mods MC</string>
+    <string name="nav_agents">Agentes</string>
+    <string name="nav_explore">Explorar</string>
+    <string name="nav_workspace">Terminal</string>
+    <string name="nav_settings">Perfil</string>
+    <string name="hero_title">Roxy Parallel Engine</string>
+    <string name="hero_subtitle">Agentes de código aislados y estudio de Mods Minecraft Bedrock con IA</string>
+    <string name="search_agents_hint">Buscar agentes, repositorios o ramas…</string>
+    <string name="search_catalog_hint">Buscar modelos, conectores MCP, plantillas o repos GitHub…</string>
+    <string name="new_agent_task">Nuevo Agente</string>
+    <string name="refresh_feed">Sincronizar Feed (Ver Skeleton)</string>
+    <string name="empty_feed_title">No se encontraron elementos</string>
+    <string name="empty_feed_subtitle">Ajusta los filtros de categoría o restablece la búsqueda para ver resultados.</string>
+    <string name="reset_filters">Restablecer filtros</string>
+    <string name="retry_action">Reintentar conexión</string>
+    <string name="apk_guide_title">Guía de Instalación APK, Mods .mcaddon y APIs</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "NexusRoxy",
+  "description": "AI Coding Agent Workspace, OpenAI-Compatible Model Hub, and Parallel Session Monitor with Shimmer Skeleton Feeds",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
